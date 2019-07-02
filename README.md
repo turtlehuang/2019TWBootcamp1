@@ -1,4 +1,8 @@
 # 2019TWBootcamp1
 # project name 
 
-## member names: 林瓏穎、黃宇龍
+## member names: 
+- 林瓏穎
+- 沙佳哲
+- 翁玄懷
+- 黃宇龍
